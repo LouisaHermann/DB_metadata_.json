@@ -1,0 +1,14 @@
+{
+  "name": "Dragon Bytes Coin",
+  "symbol": "DragonBytes",
+  "description": "Dragon Bytes likes to bite! Byte your way in your next best coin. DRAGONBYTES! Grrrrrrrrrr.",
+  "seller_fee_basis_points": 500,
+  "image": "https://imgur.com/YPKIZIk",
+  "attributes": [{"trait_type": "rarity", "value": "rare"}],
+  "properties": {
+      "files": [{"uri": "https://imgur.com/YPKIZIk", "type": "image/png"}],
+      "category": "image",
+      "creators": [{"address": "BU4jW9dmkD3w1HfDVtQ1B7QPQcs1z4axz5LadrH1C8ht", "share": 100}]
+  }
+}
+
